@@ -299,15 +299,15 @@ translate Chinese strings:
 
     # renpy/common/00action_file.rpy:395
     old "Save slot %s: [text]"
-    new "保存槽位 %s：[文本]"
+    new "保存槽位 %s：[text]"
 
     # renpy/common/00action_file.rpy:481
     old "Load slot %s: [text]"
-    new "读取槽位 %s：[文本]"
+    new "读取槽位 %s：[text]"
 
     # renpy/common/00action_file.rpy:534
     old "Delete slot [text]"
-    new "删除槽位 [文本]"
+    new "删除槽位 [text]"
 
     # renpy/common/00action_file.rpy:613
     old "File page auto"
@@ -319,7 +319,7 @@ translate Chinese strings:
 
     # renpy/common/00action_file.rpy:617
     old "File page [text]"
-    new "文件页 [文本]"
+    new "文件页 [text]"
 
     # renpy/common/00action_file.rpy:816
     old "Next file page."
@@ -343,11 +343,11 @@ translate Chinese strings:
 
     # renpy/common/00action_other.rpy:416
     old "Language [text]"
-    new "语言 [文本]"
+    new "语言 [text]"
 
     # renpy/common/00action_other.rpy:786
     old "Open [text] directory."
-    new "打开 [文本] 目录"
+    new "打开 [text] 目录"
 
     # renpy/common/00director.rpy:712
     old "The interactive director is not enabled here."
@@ -575,7 +575,7 @@ translate Chinese strings:
 
     # renpy/common/00preferences.rpy:362
     old "skip unseen [text]"
-    new "跳过未读[文本]"
+    new "跳过未读[text]"
 
     # renpy/common/00preferences.rpy:367
     old "skip unseen text"

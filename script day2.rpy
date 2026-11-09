@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2026-11-06 20:38
+﻿# TODO: Translation updated at 2026-11-06 20:38
 
 # game/script day2.rpy:18
 translate Chinese day_2_morningshift_5ae443b3:
@@ -887,7 +887,7 @@ translate Chinese day_2_morningshift_fa2fb55b:
 translate Chinese day_2_morningshift_077c39ae:
 
     # "A fife?"
-    "短笛？"
+    "横笛？"
 
 # game/script day2.rpy:519
 translate Chinese day_2_morningshift_e3e05d64:
@@ -1301,7 +1301,7 @@ translate Chinese day_2_morningshift_7669addc:
 translate Chinese day_2_morningshift_2d9ba112:
 
     # w "And you might all get your badly played 30 second long fife concert."
-    w "到时候你们说不定就能听到我这蹩脚的30秒短笛演奏会了。"
+    w "到时候你们说不定就能听到我这蹩脚的30秒横笛演奏会了。"
 
 # game/script day2.rpy:788
 translate Chinese day_2_morningshift_f04056dd:
@@ -1457,7 +1457,7 @@ translate Chinese day_2_morningshift_043bf40e:
 translate Chinese day_2_morningshift_66303d55:
 
     # j "A fife is cheap enough that I was able to buy one with my own money without anyone noticing or asking about the money.{w} And it's small enough to hide."
-    j "短笛挺便宜的，我攒了点钱，偷偷摸摸就买了，谁也没注意，也没人问钱的事儿。{w} 而且它够小，能藏起来。"
+    j "横笛挺便宜的，我攒了点钱，偷偷摸摸就买了，谁也没注意，也没人问钱的事儿。{w} 而且它够小，能藏起来。"
 
 # game/script day2.rpy:900
 translate Chinese day_2_morningshift_cdbf0f8b:
@@ -1691,7 +1691,7 @@ translate Chinese day_2_morningshift_594387c9:
 translate Chinese day_2_morningshift_a2cf40e2:
 
     # "He reaches into the pocket on the side of his trousers and takes out the instrument."
-    "他伸手进口袋，掏出了那支短笛。"
+    "他伸手进口袋，掏出了那支横笛。"
 
 # game/script day2.rpy:1080
 translate Chinese day_2_morningshift_7c87bd7e:
@@ -1703,7 +1703,7 @@ translate Chinese day_2_morningshift_7c87bd7e:
 translate Chinese day_2_morningshift_b00df0d7:
 
     # "Julian takes the offered fife and looks at it more closely. He turns it between his fingers to get a view of every side."
-    "Julian 接过短笛，仔细端详。他用手指转动着，细细打量。"
+    "Julian 接过横笛，仔细端详。他用手指转动着，细细打量。"
 
 # game/script day2.rpy:1091
 translate Chinese day_2_morningshift_5e4ace8e:
@@ -1733,7 +1733,7 @@ translate Chinese day_2_morningshift_8ba3cd84:
 translate Chinese day_2_morningshift_d0f6e239:
 
     # j "It certainly looks a lot nicer than the one I've got.{w} They're simple instruments usually, so it's nice to see one with some detail."
-    j "确实比我的那支好多了。{w} 短笛这玩意儿通常都很朴素，难得看到这么精致的。"
+    j "确实比我的那支好多了。{w} 横笛这玩意儿通常都很朴素，难得看到这么精致的。"
 
 # game/script day2.rpy:1112
 translate Chinese day_2_morningshift_613858a9:
@@ -1757,7 +1757,7 @@ translate Chinese day_2_morningshift_de4a10ab:
 translate Chinese day_2_morningshift_e92f26ec:
 
     # "After a visual inspection Julian raises the instrument to his mouth, he takes a breath and begins to blow over it gently."
-    "仔细观察了一番后，Julian 将短笛放到嘴边，深吸一口气，轻轻吹了起来。"
+    "仔细观察了一番后，Julian 将横笛放到嘴边，深吸一口气，轻轻吹了起来。"
 
 # game/script day2.rpy:1120
 translate Chinese day_2_morningshift_341cf9cc:
@@ -1769,7 +1769,7 @@ translate Chinese day_2_morningshift_341cf9cc:
 translate Chinese day_2_morningshift_bdba2c55:
 
     # "When he seems comfortable enough he begins to play in earnest. Fingers dancing along the length of the instrument."
-    "感觉差不多了，他就认真地吹奏起来。手指在短笛上飞快地跳动。"
+    "感觉差不多了，他就认真地吹奏起来。手指在横笛上飞快地跳动。"
 
 # game/script day2.rpy:1127
 translate Chinese day_2_morningshift_dc4a1470:
@@ -1799,7 +1799,7 @@ translate Chinese day_2_morningshift_067ff47e:
 translate Chinese day_2_morningshift_4be0294f:
 
     # "As promised though, he stops again after playing for a little while and hands the fife back to Wolf."
-    "不过，就像说好的那样，他吹了一小会儿就停了下来，把短笛还给了Wolf。"
+    "不过，就像说好的那样，他吹了一小会儿就停了下来，把横笛还给了Wolf。"
 
 # game/script day2.rpy:1139
 translate Chinese day_2_morningshift_212973a8:
@@ -1871,7 +1871,7 @@ translate Chinese day_2_morningshift_4d1b68b3:
 translate Chinese day_2_morningshift_d9709c4f:
 
     # "Wolf still holds onto the instrument and must have been thinking about it for a moment, but decides to stash it away again."
-    "Wolf还拿着短笛，估计是刚才一直在琢磨，但最后还是决定收起来。"
+    "Wolf还拿着横笛，估计是刚才一直在琢磨，但最后还是决定收起来。"
 
 # game/script day2.rpy:1179
 translate Chinese day_2_morningshift_61ca7b10:
@@ -2525,7 +2525,7 @@ translate Chinese day_2_morningshift_3d6763b4:
 translate Chinese day_2_morningshift_d17c47f1:
 
     # j "Well, a fife. When we dock at the next port."
-    j "嗯，买根短笛。等咱们下次靠岸的时候再说吧。"
+    j "嗯，买根横笛。等咱们下次靠岸的时候再说吧。"
 
 # game/script day2.rpy:1571
 translate Chinese day_2_morningshift_fc0a45b0:
@@ -2603,7 +2603,7 @@ translate Chinese day_2_morningshift_45df6eaa:
 translate Chinese day_2_morningshift_87fd46bc:
 
     # j "Do they have fifes over there?"
-    j "那边有卖短笛的吗？"
+    j "那边有卖横笛的吗？"
 
 # game/script day2.rpy:1629
 translate Chinese day_2_morningshift_3cf5fef1:
@@ -2621,7 +2621,7 @@ translate Chinese day_2_morningshift_eb619674:
 translate Chinese day_2_morningshift_b3bccf4a:
 
     # j "Do they even play them over there? They might use different instruments.{w} Maybe I won't find any..."
-    j "他们那边会吹短笛吗？说不定用的是别的乐器呢。可能我什么都找不到……"
+    j "他们那边会吹横笛吗？说不定用的是别的乐器呢。可能我什么都找不到……"
 
 # game/script day2.rpy:1645
 translate Chinese day_2_morningshift_7a0dd6ac:
@@ -4469,7 +4469,7 @@ translate Chinese day2_stay_and_work_with_wolf_and_julian_81e13bc1:
 translate Chinese day2_stay_and_work_with_wolf_and_julian_49eae2f2:
 
     # w "Didn't you listen? It's nothing exciting, just a sheet that's worn through."
-    w "你没听见吗？ 没什么好兴奋的，就是帆桁索磨破了。 "
+    w "你没听见吗？ 没什么好兴奋的，就是后桅纵帆磨破了。 "
 
 # game/script day2.rpy:2733
 translate Chinese day2_stay_and_work_with_wolf_and_julian_a900a151:
@@ -8190,7 +8190,7 @@ translate Chinese day2_nomax_entered_be49527d:
 translate Chinese day2_nomax_entered_3e8dd2f6:
 
     # "{i}Craterellus cornucopioides{/i}, trompette de la mort."
-    "{i}Craterellus cornucopioides{/i}，trompette de la mort（死亡小号菌，喇叭菌）."
+    "{i}Craterellus cornucopioides{/i}，trompette de la mort（死亡号角菌，灰酱油小喇叭菌）."
 
 # game/script day2.rpy:4546
 translate Chinese day2_nomax_entered_a73e522e:
@@ -10152,7 +10152,7 @@ translate Chinese day2_nomax_notentered_7db5f96f:
 translate Chinese day2_nomax_notentered_3e8dd2f6:
 
     # "{i}Craterellus cornucopioides{/i}, trompette de la mort."
-    "{i}Craterellus cornucopioides{/i}，trompette de la mort（死亡小号菌，喇叭菌）."
+    "{i}Craterellus cornucopioides{/i}，trompette de la mort（死亡号角菌，灰酱油小喇叭菌）."
 
 # game/script day2.rpy:5512
 translate Chinese day2_nomax_notentered_fd86e610:
@@ -11382,7 +11382,7 @@ translate Chinese day2_nomax_afterchoice_c866b222:
 translate Chinese day2_nomax_afterchoice_8b5de62b:
 
     # k "That's not why it's a rush. Spanker's fucked up, and they need my ass up there to help sort it out."
-    k "烦的是另外一件事儿。是帆桁索（Spanker）出了问题，他们非得我过去帮忙才行。"
+    k "烦的是另外一件事儿。是后桅斜桁纵帆（Spanker）出了问题，他们非得我过去帮忙才行。"
 
 # game/script day2.rpy:6092
 translate Chinese day2_nomax_afterchoice_a3834e20:
@@ -15612,7 +15612,7 @@ translate Chinese day2_julian_wolf_dice_c7dc0fd3:
 translate Chinese day2_julian_wolf_dice_a17a1bf2:
 
     # j "The fife?"
-    j "短笛？"
+    j "横笛？"
 
 # game/script day2.rpy:8519
 translate Chinese day2_julian_wolf_dice_21de255a:
@@ -16092,7 +16092,7 @@ translate Chinese day2_julian_win_nobet_eefddbf4:
 translate Chinese day2_julian_win_nobet_2c6e100b:
 
     # w "You played my fife. I guess that's something you did, not something about you."
-    w "你吹过我的短笛。不过这只是你做过的事，跟你人没关系。"
+    w "你吹过我的横笛。不过这只是你做过的事，跟你人没关系。"
 
 # game/script day2.rpy:8844
 translate Chinese day2_julian_win_nobet_dd2d5b95:
@@ -19546,7 +19546,7 @@ translate Chinese day2_tell_julian_about_julian_c225b0fa:
 translate Chinese day2_tell_julian_about_julian_f513fc29:
 
     # "Wolf just sighs rather than rise even further to the bait. Julian then turns back to you."
-    "沃夫只是叹了口气，没再搭理Julian的挑逗。然后Julian转过身来对你说："
+    "Wolf只是叹了口气，没再搭理Julian的挑逗。然后Julian转过身来对你说："
 
 # game/script day2.rpy:10691
 translate Chinese day2_tell_julian_about_julian_9655ac4b:
@@ -19594,7 +19594,7 @@ translate Chinese day2_tell_julian_about_julian_136dac2b:
 translate Chinese day2_tell_julian_about_julian_2ba8ce5b:
 
     # "Wolf interrupts your train of thought with an annoyed grunt."
-    "沃夫不耐烦地嘟囔了一声，打断了你的思绪。"
+    "Wolf不耐烦地嘟囔了一声，打断了你的思绪。"
 
 # game/script day2.rpy:10719
 translate Chinese day2_tell_julian_about_julian_0abe38a9:
@@ -19606,7 +19606,7 @@ translate Chinese day2_tell_julian_about_julian_0abe38a9:
 translate Chinese day2_tell_julian_about_julian_df4bc6a8:
 
     # j "Is it really such an unwelcome image, Wolf?"
-    j "怎么，看不得我们这样啊，沃夫？"
+    j "怎么，看不得我们这样啊，Wolf？"
 
 # game/script day2.rpy:10725
 translate Chinese day2_tell_julian_about_julian_92df58a1:
@@ -19636,13 +19636,13 @@ translate Chinese day2_tell_julian_about_julian_d17aa706:
 translate Chinese day2_tell_julian_about_julian_12bad19e:
 
     # j "You see how easy it is, Wolf? Why can't you be agreeable like him?"
-    j "看看，多简单，沃夫？你咋就不能像他一样好说话呢？"
+    j "看看，多简单，Wolf？你咋就不能像他一样好说话呢？"
 
 # game/script day2.rpy:10776
 translate Chinese day2_tell_julian_about_julian_a6aa4ecf:
 
     # "Wolf shakes his head, grumbling to himself."
-    "沃夫摇了摇头，嘟嘟囔囔地抱怨着。"
+    "Wolf摇了摇头，嘟嘟囔囔地抱怨着。"
 
 # game/script day2.rpy:10778
 translate Chinese day2_tell_julian_about_julian_31b6c148:
@@ -19654,7 +19654,7 @@ translate Chinese day2_tell_julian_about_julian_31b6c148:
 translate Chinese day2_tell_julian_about_julian_50b2347e:
 
     # p "We're your dumbass duo, Wolf. We're all friends here. Isn't that right, fellow dumbass?"
-    p "咱们可是你的“最佳损友”二人组，沃夫。咱们都是朋友嘛。你说对吧，蠢哥们儿？"
+    p "咱们可是你的“最佳损友”二人组，Wolf。咱们都是朋友嘛。你说对吧，蠢哥们儿？"
 
 # game/script day2.rpy:10782
 translate Chinese day2_tell_julian_about_julian_d35110fb:
@@ -19672,7 +19672,7 @@ translate Chinese day2_tell_julian_about_julian_c202a8a2:
 translate Chinese day2_tell_julian_about_julian_985570fc:
 
     # "Wolf glares daggers at the both of you as you break into laughter."
-    "你们的笑声让沃夫怒火中烧，狠狠地瞪着你们俩。"
+    "你们的笑声让Wolf怒火中烧，狠狠地瞪着你们俩。"
 
 # game/script day2.rpy:10827
 translate Chinese day2_tell_julian_about_julian_ade269cb:
@@ -19702,13 +19702,13 @@ translate Chinese day2_tell_julian_about_julian_8106611b:
 translate Chinese day2_tell_julian_about_julian_22b03b52:
 
     # "Julian is surprised, struck speechless for a moment. Evidently, he expects haranguing from Wolf, but not you."
-    "Julian愣住了，一时语塞。很明显，他以为你会像沃夫一样指责他，没想到你会这么说。"
+    "Julian愣住了，一时语塞。很明显，他以为你会像Wolf一样指责他，没想到你会这么说。"
 
 # game/script day2.rpy:10840
 translate Chinese day2_tell_julian_about_julian_b11ee19d:
 
     # p "I mean, the entire thing with Wolf's fife. Even if you can play it, it's his, right? It doesn't give you a claim to it or anything."
-    p "我是说，就拿沃夫的短笛来说吧。就算你会吹，那也是他的东西，对吧？这并不能让你为所欲为。"
+    p "我是说，就拿Wolf的横笛来说吧。就算你会吹，那也是他的东西，对吧？这并不能让你为所欲为。"
 
 # game/script day2.rpy:10844
 translate Chinese day2_tell_julian_about_julian_824815d1:
@@ -19720,7 +19720,7 @@ translate Chinese day2_tell_julian_about_julian_824815d1:
 translate Chinese day2_tell_julian_about_julian_a0caaf26:
 
     # p "Even so! He clearly cares for it!"
-    p "就算只是玩笑！他也明显很在意那支短笛！"
+    p "就算只是玩笑！他也明显很在意那支横笛！"
 
 # game/script day2.rpy:10848
 translate Chinese day2_tell_julian_about_julian_36fa9ef6:
@@ -19744,7 +19744,7 @@ translate Chinese day2_tell_julian_about_julian_03077242:
 translate Chinese day2_tell_julian_about_julian_d12136ab:
 
     # j "Uhhh... I'm sorry I was pushy earlier about your fife, Wolf?"
-    j "呃...Wolf，之前我不该对你的短笛那么凶，对不起啊？"
+    j "呃...Wolf，之前我不该对你的横笛那么凶，对不起啊？"
 
 # game/script day2.rpy:10862
 translate Chinese day2_tell_julian_about_julian_09c9364b:
@@ -20656,7 +20656,7 @@ translate Chinese day2_tell_julian_about_wolf_3ffa9f76:
 translate Chinese day2_tell_julian_about_wolf_ad694770:
 
     # p "Well, maybe... I just know things about you, Julian. I only know about the fife with Wolf."
-    p "好吧，也许... 我只是知道关于你的一些事情，Julian。关于Wolf，我只知道那根短笛。"
+    p "好吧，也许... 我只是知道关于你的一些事情，Julian。关于Wolf，我只知道那根横笛。"
 
 # game/script day2.rpy:11549
 translate Chinese day2_tell_julian_about_wolf_a3b72f1b:
@@ -21088,7 +21088,7 @@ translate Chinese day2_after_julian_crew_questioning_214dd445:
 translate Chinese day2_after_julian_crew_questioning_2c6e100b:
 
     # w "You played my fife. I guess that's something you did, not something about you."
-    w "你吹过我的短笛。不过这只是你做过的事，跟你人没关系。"
+    w "你吹过我的横笛。不过这只是你做过的事，跟你人没关系。"
 
 # game/script day2.rpy:11839
 translate Chinese day2_after_julian_crew_questioning_dd2d5b95:
@@ -31427,19 +31427,19 @@ translate Chinese day2_eveningchoice_fifelesson_8a21b415:
 translate Chinese day2_eveningchoice_fifelesson_dfa46061:
 
     # "The sound of someone playing the fife?"
-    "“有人在吹短笛？”"
+    "“有人在吹横笛？”"
 
 # game/script day2.rpy:17513
 translate Chinese day2_eveningchoice_fifelesson_a945ccab:
 
     # "You did encourage Wolf that he should take the fife lessons, but he'd never actually do it, would he?"
-    "“你确实鼓励过Wolf去上短笛课，但他真的会去吗？”"
+    "“你确实鼓励过Wolf去上横笛课，但他真的会去吗？”"
 
 # game/script day2.rpy:17515
 translate Chinese day2_eveningchoice_fifelesson_7e5ef2bb:
 
     # "Maybe Julian asked nicely enough to be allowed to play again, or maybe someone else on board brought one along?"
-    "“也许是Julian好说歹说才被允许再吹一次，或者船上其他人带了短笛来？”"
+    "“也许是Julian好说歹说才被允许再吹一次，或者船上其他人带了横笛来？”"
 
 # game/script day2.rpy:17517
 translate Chinese day2_eveningchoice_fifelesson_5893a82f:
@@ -31565,7 +31565,7 @@ translate Chinese day2_eveningchoice_fifelesson_7e1d1128:
 translate Chinese day2_eveningchoice_fifelesson_b6c9a82f:
 
     # p "I heard the fife though, so they just began without saying a single word to you?"
-    p "“我听到短笛声了，所以他们一声不吭就开始了？”"
+    p "“我听到横笛声了，所以他们一声不吭就开始了？”"
 
 # game/script day2.rpy:17634
 translate Chinese day2_eveningchoice_fifelesson_dfcea5dc:
@@ -31577,7 +31577,7 @@ translate Chinese day2_eveningchoice_fifelesson_dfcea5dc:
 translate Chinese day2_eveningchoice_fifelesson_0078e131:
 
     # p "Oh, we talked earlier about holding a fife lesson, so I assume that's what they're doing, or at least trying to do."
-    p "“哦，我们之前说好要上短笛课的，我猜他们现在就是在上课，或者至少是在尝试上课。”"
+    p "“哦，我们之前说好要上横笛课的，我猜他们现在就是在上课，或者至少是在尝试上课。”"
 
 # game/script day2.rpy:17648
 translate Chinese day2_eveningchoice_fifelesson_f7ba0f02:
@@ -31589,7 +31589,7 @@ translate Chinese day2_eveningchoice_fifelesson_f7ba0f02:
 translate Chinese day2_eveningchoice_fifelesson_3941c982:
 
     # p "There we go. Fife lesson it is. Does anyone mind if I join in?"
-    p "“果然是短笛课。有人介意我加入吗？”"
+    p "“果然是横笛课。有人介意我加入吗？”"
 
 # game/script day2.rpy:17653
 translate Chinese day2_eveningchoice_fifelesson_f328869c:
@@ -31841,7 +31841,7 @@ translate Chinese day2_eveningchoice_fifelesson_211b9545:
 translate Chinese day2_eveningchoice_fifelesson_d6f5c6e7:
 
     # "You feel Julian tap you on the leg to get your attention. He holds the fife to his lips to mime a brief bout of playing, before pointing it at the canine beside him."
-    "你感觉到Julian拍了拍你的腿，想引起你注意。他把短笛放到嘴边比划了几下，又指了指旁边的家伙。"
+    "你感觉到Julian拍了拍你的腿，想引起你注意。他把横笛放到嘴边比划了几下，又指了指旁边的家伙。"
 
 # game/script day2.rpy:17834
 translate Chinese day2_eveningchoice_fifelesson_3ff9af19:
@@ -31889,7 +31889,7 @@ translate Chinese day2_eveningchoice_fifelesson_c7a1f7cd:
 translate Chinese day2_eveningchoice_fifelesson_cb08a684:
 
     # "You look at Julian for confirmation and he shakes his head, points more animatedly at Wolf, before miming himself playing the fife again."
-    "你看向Julian，想确认一下，他摇摇头，更起劲地指着Wolf，又比划着自己吹短笛的样子。"
+    "你看向Julian，想确认一下，他摇摇头，更起劲地指着Wolf，又比划着自己吹横笛的样子。"
 
 # game/script day2.rpy:17884
 translate Chinese day2_eveningchoice_fifelesson_6d4a486a:
@@ -31913,7 +31913,7 @@ translate Chinese day2_eveningchoice_fifelesson_faf09599:
 translate Chinese day2_eveningchoice_fifelesson_e154c2a4:
 
     # "Julian leans over to hand Wolf the fife, before leaning back again to watch him have a go."
-    "Julian俯身把短笛递给Wolf，然后往后一靠，看他怎么弄。"
+    "Julian俯身把横笛递给Wolf，然后往后一靠，看他怎么弄。"
 
 # game/script day2.rpy:17924
 translate Chinese day2_eveningchoice_fifelesson_9efab905:
@@ -31967,7 +31967,7 @@ translate Chinese day2_eveningchoice_fifelesson_de963d74:
 translate Chinese day2_eveningchoice_fifelesson_cb5c5c3b:
 
     # "The canine takes the fife and lays it to his lips, looking over at Julian with a hint of uncertainty."
-    "那家伙接过短笛，放到嘴边，有些犹豫地看着Julian。"
+    "那家伙接过横笛，放到嘴边，有些犹豫地看着Julian。"
 
 # game/script day2.rpy:17959
 translate Chinese day2_eveningchoice_fifelesson_ef7f93c4:
@@ -32009,7 +32009,7 @@ translate Chinese day2_eveningchoice_fifelesson_23459076:
 translate Chinese day2_eveningchoice_fifelesson_13fa2602:
 
     # "Julian nods and raises both hands as if holding a fife, urging Wolf to do the same."
-    "Julian点点头，双手举起，比划着像是在拿短笛，示意Wolf也学着做。"
+    "Julian点点头，双手举起，比划着像是在拿横笛，示意Wolf也学着做。"
 
 # game/script day2.rpy:17984
 translate Chinese day2_eveningchoice_fifelesson_079569d4:
@@ -32051,7 +32051,7 @@ translate Chinese day2_eveningchoice_fifelesson_50c239cd:
 translate Chinese day2_eveningchoice_fifelesson_daa7e5d3:
 
     # "Julian watches as Wolf raises the instrument again and reaches over to adjust Wolf's grip and positioning of the fife until he is happy with how the canine is holding it."
-    "Julian看着Wolf再次举起短笛，然后伸手过去调整他的握姿和短笛的位置，直到满意为止。"
+    "Julian看着Wolf再次举起横笛，然后伸手过去调整他的握姿和横笛的位置，直到满意为止。"
 
 # game/script day2.rpy:18006
 translate Chinese day2_eveningchoice_fifelesson_4932ae53:
@@ -32213,7 +32213,7 @@ translate Chinese day2_eveningchoice_fifelesson_aeb5d85a:
 translate Chinese day2_eveningchoice_fifelesson_ef2fadb4:
 
     # "Wolf speaks over the fife, careful not to move it from the correct position."
-    "Wolf一边吹着短笛，一边没好气地说，尽量不让短笛的位置有偏差。"
+    "Wolf一边吹着横笛，一边没好气地说，尽量不让横笛的位置有偏差。"
 
 # game/script day2.rpy:18159
 translate Chinese day2_eveningchoice_fifelesson_7ddd8a5d:
@@ -32303,13 +32303,13 @@ translate Chinese day2_eveningchoice_fifelesson_9683efd8:
 translate Chinese day2_eveningchoice_fifelesson_e1f16c52:
 
     # "He points at Wolf, leans forward and takes the fife from his hands before blowing through his own lips again."
-    "他指了指Wolf，凑上前去，从他手里拿过短笛，又自己吹了起来。"
+    "他指了指Wolf，凑上前去，从他手里拿过横笛，又自己吹了起来。"
 
 # game/script day2.rpy:18210
 translate Chinese day2_eveningchoice_fifelesson_8d443ddf:
 
     # w "So you want me to try it without the fife?" with dissolve
-    w "你是想让我不用短笛试试？" with dissolve
+    w "你是想让我不用横笛试试？" with dissolve
 
 # game/script day2.rpy:18214
 translate Chinese day2_eveningchoice_fifelesson_381ce655:
@@ -32345,7 +32345,7 @@ translate Chinese day2_eveningchoice_fifelesson_f80a9322:
 translate Chinese day2_eveningchoice_fifelesson_32bda8b1:
 
     # "Wolf brings the fife to his lips again for another try, but as before, without much success."
-    "Wolf再次把短笛凑到嘴边，想再试一次，结果还跟之前一样，没什么起色。"
+    "Wolf再次把横笛凑到嘴边，想再试一次，结果还跟之前一样，没什么起色。"
 
 # game/script day2.rpy:18243
 translate Chinese day2_eveningchoice_fifelesson_0d0a178c:
@@ -32375,13 +32375,13 @@ translate Chinese day2_eveningchoice_fifelesson_c15cf946:
 translate Chinese day2_eveningchoice_fifelesson_fe144718:
 
     # b "Maybe try without the fife? It might just distract you whenever you're not hearing the right tone."
-    b "要不，你先别用短笛试试？ 也许听不到准音的时候，它反而会让你更分心。"
+    b "要不，你先别用横笛试试？ 也许听不到准音的时候，它反而会让你更分心。"
 
 # game/script day2.rpy:18268
 translate Chinese day2_eveningchoice_fifelesson_83a5a398:
 
     # "Wolf makes one last frustrated attempt before shoving the fife to the rabbit sitting opposite of him."
-    "Wolf 气得又试了一次，还是不行，干脆把短笛塞给坐在对面的兔子。"
+    "Wolf 气得又试了一次，还是不行，干脆把横笛塞给坐在对面的兔子。"
 
 # game/script day2.rpy:18274
 translate Chinese day2_eveningchoice_fifelesson_9138d997:
@@ -32411,7 +32411,7 @@ translate Chinese day2_eveningchoice_fifelesson_2b54fab0:
 translate Chinese day2_eveningchoice_fifelesson_979992b4:
 
     # j "Oh, erm... take the fife away for a moment and blow again."
-    j "哦，额…你先把短笛拿开，再吹一下试试。"
+    j "哦，额…你先把横笛拿开，再吹一下试试。"
 
 # game/script day2.rpy:18290
 translate Chinese day2_eveningchoice_fifelesson_d748a777:
@@ -32429,7 +32429,7 @@ translate Chinese day2_eveningchoice_fifelesson_f04a98a6:
 translate Chinese day2_eveningchoice_fifelesson_80d114db:
 
     # j "Go on, try it again with the fife."
-    j "来吧，用短笛再试试。"
+    j "来吧，用横笛再试试。"
 
 # game/script day2.rpy:18304
 translate Chinese day2_eveningchoice_fifelesson_721d5282:
@@ -32441,7 +32441,7 @@ translate Chinese day2_eveningchoice_fifelesson_721d5282:
 translate Chinese day2_eveningchoice_fifelesson_4eff856a:
 
     # "Wolf brings the fife to his lips once more for another attempt, but just as before, without a whole lot of success."
-    "Wolf 再次把短笛放到嘴边，想再试一次，结果还是老样子，不太成功。"
+    "Wolf 再次把横笛放到嘴边，想再试一次，结果还是老样子，不太成功。"
 
 # game/script day2.rpy:18319
 translate Chinese day2_eveningchoice_fifelesson_3945cba8:
@@ -32477,19 +32477,19 @@ translate Chinese day2_eveningchoice_fifelesson_829e68c6:
 translate Chinese day2_eveningchoice_fifelesson_0c77d2f4:
 
     # j "Maybe try without the fife? Just feel with your hand where you're blowing. That way the other two can have a go as well."
-    j "要不你先别用短笛？ 就用手感觉一下你往哪儿吹气。 这样，他们两个也能试试。"
+    j "要不你先别用横笛？ 就用手感觉一下你往哪儿吹气。 这样，他们两个也能试试。"
 
 # game/script day2.rpy:18342
 translate Chinese day2_eveningchoice_fifelesson_12589b7e:
 
     # j "Maybe try without the fife? Just feel with your hand where you're blowing. Then Bandile can have a go, too."
-    j "要不你先别用短笛？ 就用手感觉一下你往哪儿吹气。 Bandile也能试试。"
+    j "要不你先别用横笛？ 就用手感觉一下你往哪儿吹气。 Bandile也能试试。"
 
 # game/script day2.rpy:18352
 translate Chinese day2_eveningchoice_fifelesson_83a5a398_1:
 
     # "Wolf makes one last frustrated attempt before shoving the fife to the rabbit sitting opposite of him."
-    "Wolf 气得又试了一次，还是不行，干脆把短笛塞给坐在对面的兔子。"
+    "Wolf 气得又试了一次，还是不行，干脆把横笛塞给坐在对面的兔子。"
 
 # game/script day2.rpy:18359
 translate Chinese day2_eveningchoice_fifelesson_a0d66f63:
@@ -32525,7 +32525,7 @@ translate Chinese day2_eveningchoice_fifelesson_18b98936:
 translate Chinese day2_eveningchoice_fifelesson_d865b731:
 
     # "The moment is disarmed by the high pitched tone of the fife before either of them can bark out another word at the other."
-    "还没等他们互相开骂，短笛突然发出的高音就化解了这场争吵。"
+    "还没等他们互相开骂，横笛突然发出的高音就化解了这场争吵。"
 
 # game/script day2.rpy:18404
 translate Chinese day2_eveningchoice_fifelesson_2856bd81:
@@ -32609,7 +32609,7 @@ translate Chinese day2_eveningchoice_fifelesson_dc1418b2:
 translate Chinese day2_eveningchoice_fifelesson_b0e3083e:
 
     # "You feel their eyes on you as you take the metal instrument and bring it to your lips, warm to the touch by now from everyone else. You adjust it, your shoulders and your lips, until you feel like you've got everything in the right position."
-    "你拿起这根被大家摸得发热的金属短笛，感觉所有人的目光都集中在你身上。你调整着嘴唇和肩膀，直到找到最合适的位置。"
+    "你拿起这根被大家摸得发热的金属横笛，感觉所有人的目光都集中在你身上。你调整着嘴唇和肩膀，直到找到最合适的位置。"
 
 # game/script day2.rpy:18461
 translate Chinese day2_eveningchoice_fifelesson_76931537:
@@ -32693,7 +32693,7 @@ translate Chinese day2_eveningchoice_fifelesson_9f136f80:
 translate Chinese day2_eveningchoice_fifelesson_bdcde5dc:
 
     # "You encourage him warmly and reach over to hand him the fife once more."
-    "你热情地鼓励他，然后伸手再次将短笛递给他。"
+    "你热情地鼓励他，然后伸手再次将横笛递给他。"
 
 # game/script day2.rpy:18547
 translate Chinese day2_eveningchoice_fifelesson_fee3bd31:
@@ -32705,7 +32705,7 @@ translate Chinese day2_eveningchoice_fifelesson_fee3bd31:
 translate Chinese day2_eveningchoice_fifelesson_70231a27:
 
     # "He holds the instrument out to you before quickly realising that you don't want to try it yourself and passes it back to Wolf instead."
-    "他把短笛递给你，然后很快意识到你并不想自己尝试，又把短笛还给了Wolf。"
+    "他把横笛递给你，然后很快意识到你并不想自己尝试，又把横笛还给了Wolf。"
 
 # game/script day2.rpy:18567
 translate Chinese day2_eveningchoice_fifelesson_bf06c0ca:
@@ -32753,13 +32753,13 @@ translate Chinese day2_eveningchoice_fifelesson_622ab5bd:
 translate Chinese day2_eveningchoice_fifelesson_d0e774a3:
 
     # "Bandile encourages him with a gentle smile and reaches over to hand him the fife again."
-    "Bandile 带着温柔的微笑鼓励他，再次把短笛递给他。"
+    "Bandile 带着温柔的微笑鼓励他，再次把横笛递给他。"
 
 # game/script day2.rpy:18594
 translate Chinese day2_eveningchoice_fifelesson_fff2fdab:
 
     # "The canine hesitates for a moment before taking the fife again, black fingers wrapping around it as he cradles it in his lap."
-    "狼人犹豫了一下，再次拿起短笛，黑色的手指紧紧握住，像宝贝一样捧在膝盖上。"
+    "狼人犹豫了一下，再次拿起横笛，黑色的手指紧紧握住，像宝贝一样捧在膝盖上。"
 
 # game/script day2.rpy:18596
 translate Chinese day2_eveningchoice_fifelesson_766ac378:
@@ -32771,7 +32771,7 @@ translate Chinese day2_eveningchoice_fifelesson_766ac378:
 translate Chinese day2_eveningchoice_fifelesson_4cbb69da:
 
     # "But to your surprise, he lifts the fife up again and gives it another shot."
-    "但出乎你意料的是，他又拿起短笛，决定再试一次。"
+    "但出乎你意料的是，他又拿起横笛，决定再试一次。"
 
 # game/script day2.rpy:18606
 translate Chinese day2_eveningchoice_fifelesson_a7b50b8a:
@@ -32945,7 +32945,7 @@ translate Chinese day2_eveningchoice_fifelesson_6351f23c:
 translate Chinese day2_eveningchoice_fifelesson_c8465684:
 
     # "He lays the fife in your lap and stands up from his crate, leaving the three of you to watch him walk off and down the stairs into the ship."
-    "他把短笛放到你腿上，自己从板条箱上站起身，留下我们三个，看着他走开，下楼进了船舱。"
+    "他把横笛放到你腿上，自己从板条箱上站起身，留下我们三个，看着他走开，下楼进了船舱。"
 
 # game/script day2.rpy:18711
 translate Chinese day2_eveningchoice_fifelesson_10012e1f:
@@ -32963,7 +32963,7 @@ translate Chinese day2_eveningchoice_fifelesson_477ae573:
 translate Chinese day2_eveningchoice_fifelesson_c8465684_1:
 
     # "He lays the fife in your lap and stands up from his crate, leaving the three of you to watch him walk off and down the stairs into the ship."
-    "他把短笛放到你腿上，自己从板条箱上站起身，留下我们三个，看着他走开，下楼进了船舱。"
+    "他把横笛放到你腿上，自己从板条箱上站起身，留下我们三个，看着他走开，下楼进了船舱。"
 
 # game/script day2.rpy:18730
 translate Chinese day2_eveningchoice_fifelesson_e594b856:
@@ -33011,7 +33011,7 @@ translate Chinese day2_eveningchoice_fifelesson_9d502aa4:
 translate Chinese day2_eveningchoice_fifelesson_2b5ee97a:
 
     # "You pick up the fife in your lap and roll it between your fingertips as you turn to look at the back of the deck where he had gone."
-    "你拿起腿上的短笛，在指尖转动着，抬头看向他走去的甲板后方。"
+    "你拿起腿上的横笛，在指尖转动着，抬头看向他走去的甲板后方。"
 
 # game/script day2.rpy:18777
 translate Chinese day2_eveningchoice_fifelesson_92891bf5:
@@ -33035,7 +33035,7 @@ translate Chinese day2_eveningchoice_fifelesson_c384614c:
 translate Chinese day2_eveningchoice_fifelesson_0dcb3b23:
 
     # j "You're not quite hitting the right angle. You're blowing over the fife."
-    j "你没有完全找对角度。 你在朝短笛上方吹气。"
+    j "你没有完全找对角度。 你在朝横笛上方吹气。"
 
 # game/script day2.rpy:18791
 translate Chinese day2_eveningchoice_fifelesson_3159ccfe:
@@ -33107,7 +33107,7 @@ translate Chinese day2_eveningchoice_fifelesson_20076c1b:
 translate Chinese day2_eveningchoice_fifelesson_0dcb3b23_1:
 
     # j "You're not quite hitting the right angle. You're blowing over the fife."
-    j "你没有完全找对角度。 你在朝短笛上方吹气。"
+    j "你没有完全找对角度。 你在朝横笛上方吹气。"
 
 # game/script day2.rpy:18831
 translate Chinese day2_eveningchoice_fifelesson_e18784f5_1:
@@ -33131,7 +33131,7 @@ translate Chinese day2_eveningchoice_fifelesson_4083b39f_1:
 translate Chinese day2_eveningchoice_fifelesson_beb41655:
 
     # p "Do you want Wolf to press the fife against his chin more firmly?"
-    p "你是想让Wolf更用力地把短笛压在他的下巴上吗？"
+    p "你是想让Wolf更用力地把横笛压在他的下巴上吗？"
 
 # game/script day2.rpy:18843
 translate Chinese day2_eveningchoice_fifelesson_d7d31b4b:
@@ -33179,7 +33179,7 @@ translate Chinese day2_eveningchoice_fifelesson_20076c1b_1:
 translate Chinese day2_eveningchoice_fifelesson_0dcb3b23_2:
 
     # j "You're not quite hitting the right angle. You're blowing over the fife."
-    j "你没有完全找对角度。 你在朝短笛上方吹气。"
+    j "你没有完全找对角度。 你在朝横笛上方吹气。"
 
 # game/script day2.rpy:18867
 translate Chinese day2_eveningchoice_fifelesson_7b05fc65:
@@ -33389,7 +33389,7 @@ translate Chinese day2_eveningchoice_fifelesson_11e75ee1:
 translate Chinese day2_eveningchoice_fifelesson_5077dcff:
 
     # j "Precisely, that's what I meant by angling it down. You don't want it going over the fife. All you get is that wet, mushy sound."
-    j "没错，我说的向下倾斜就是这意思。你不能让它盖过短笛，那样声音就糊了。"
+    j "没错，我说的向下倾斜就是这意思。你不能让它盖过横笛，那样声音就糊了。"
 
 # game/script day2.rpy:19034
 translate Chinese day2_eveningchoice_fifelesson_7037ecaf:
@@ -33599,7 +33599,7 @@ translate Chinese day2_eveningchoice_fifelesson_c5b2b690:
 translate Chinese day2_eveningchoice_fifelesson_4157cc40:
 
     # "Clearly having had enough of this conversation, Wolf goes ahead and brings the fife to his lips once again for his next attempt."
-    "显然是被我们聊得够呛，Wolf 啥也没说，直接又把短笛凑到嘴边，打算再试试。"
+    "显然是被我们聊得够呛，Wolf 啥也没说，直接又把横笛凑到嘴边，打算再试试。"
 
 # game/script day2.rpy:19189
 translate Chinese day2_eveningchoice_fifelesson_a6729bd0:
@@ -33857,7 +33857,7 @@ translate Chinese day2_eveningchoice_fifelesson_goafter_bc4b54d3:
 translate Chinese day2_eveningchoice_fifelesson_goafter_24e24902:
 
     # p "Well, I guess I will go after him and give him his fife back. Doesn't sound like we'll be practising much on our own."
-    p "哎，我还是去追上他，把他的短笛还给他吧。 看来咱们自己是没法好好练了。"
+    p "哎，我还是去追上他，把他的横笛还给他吧。 看来咱们自己是没法好好练了。"
 
 # game/script day2.rpy:19396
 translate Chinese day2_eveningchoice_fifelesson_goafter_d1a9c48a:
@@ -33923,7 +33923,7 @@ translate Chinese day2_eveningchoice_fifelesson_goafter_72d455e2:
 translate Chinese day2_eveningchoice_fifelesson_goafter_4a489d44:
 
     # "You bend down and carefully tuck the fife into his simple linen bag, making sure that it won't fall out by accident. The brief glimpse you get of its contents reveals about what you expected."
-    "你弯下腰，小心翼翼地把短笛塞进他那简简单单的亚麻布包里，确保不会掉出来。 你瞥了一眼包里，发现里面的东西和你预料的差不多。"
+    "你弯下腰，小心翼翼地把横笛塞进他那简简单单的亚麻布包里，确保不会掉出来。 你瞥了一眼包里，发现里面的东西和你预料的差不多。"
 
 # game/script day2.rpy:19433
 translate Chinese day2_eveningchoice_fifelesson_goafter_86a7db25:
@@ -33953,7 +33953,7 @@ translate Chinese day2_eveningchoice_fifelesson_goafter_f86b31a1:
 translate Chinese day2_eveningchoice_fifelesson_goafter_fa04c650:
 
     # "Without much care you toss the fife into his hammock, watching it land somewhere on his stomach before he holds onto it."
-    "你随手把短笛扔到他吊床上，看着它落在他肚子上，他这才捞住。"
+    "你随手把横笛扔到他吊床上，看着它落在他肚子上，他这才捞住。"
 
 # game/script day2.rpy:19451
 translate Chinese day2_eveningchoice_fifelesson_goafter_e2de8de9:
@@ -33983,13 +33983,13 @@ translate Chinese day2_eveningchoice_fifelesson_goafter_244205d8:
 translate Chinese day2_eveningchoice_fifelesson_goafter_32e351b1:
 
     # w "So just leave the fife in the bag and leave."
-    w "所以，把短笛放回包里，然后滚蛋。"
+    w "所以，把横笛放回包里，然后滚蛋。"
 
 # game/script day2.rpy:19474
 translate Chinese day2_eveningchoice_fifelesson_goafter_d92def99:
 
     # "You bend down and tuck the fife in his bag. The brief glimpse you get of its contents reveals about what you expected."
-    "你弯腰把短笛塞回他的包里。瞥了一眼，包里的东西果然不出你所料。"
+    "你弯腰把横笛塞回他的包里。瞥了一眼，包里的东西果然不出你所料。"
 
 # game/script day2.rpy:19476
 translate Chinese day2_eveningchoice_fifelesson_goafter_86a7db25_1:
@@ -34127,7 +34127,7 @@ translate Chinese day2_eveningchoice_fifelesson_space_83653489:
 translate Chinese day2_eveningchoice_fifelesson_space_ff4b8ef1:
 
     # p "You're probably right. I'll keep the fife for now and bring it back to him later, unless you still want to practice, Bandile?"
-    p "你说的可能对。我先拿着短笛，晚点再还给他，除非你还想练练，Bandile？"
+    p "你说的可能对。我先拿着横笛，晚点再还给他，除非你还想练练，Bandile？"
 
 # game/script day2.rpy:19565
 translate Chinese day2_eveningchoice_fifelesson_space_025518ce:
@@ -34169,7 +34169,7 @@ translate Chinese day2_eveningchoice_fifelesson_space_8b510b70:
 translate Chinese day2_eveningchoice_fifelesson_space_8a4e61da:
 
     # "Later during your free time, you make your way over to his hammock to stash away his fife. You had hoped that you could do it without him noticing, but you see him resting in it with his elbow over his eyes."
-    "你趁着空闲，想神不知鬼不觉地把他的短笛藏到他的吊床上。结果却看到他正用胳膊肘遮着眼睛躺在那里。"
+    "你趁着空闲，想神不知鬼不觉地把他的横笛藏到他的吊床上。结果却看到他正用胳膊肘遮着眼睛躺在那里。"
 
 # game/script day2.rpy:19618
 translate Chinese day2_eveningchoice_fifelesson_space_cb59a24f:
@@ -34193,7 +34193,7 @@ translate Chinese day2_eveningchoice_fifelesson_space_59676fd8:
 translate Chinese day2_eveningchoice_fifelesson_space_f9e48d53:
 
     # p "I'm sorry, I didn't want to scare you. I'm just bringing back the fife.{p}I made sure to wipe it, too."
-    p "对不起，我不是想吓你。我把短笛拿回来了。{p}"
+    p "对不起，我不是想吓你。我把横笛拿回来了。{p}"
 
 # game/script day2.rpy:19630
 translate Chinese day2_eveningchoice_fifelesson_space_34e21d14:
@@ -34607,7 +34607,7 @@ translate Chinese day2_eveningchoice_rajeeyahafterdinner_8864e134:
 translate Chinese day2_eveningchoice_rajeeyahafterdinner_0665f9c1:
 
     # r "I had to replenish our supply since the incident with Perce. Probably prudent to avoid it happening again."
-    r "之前佩尔斯那事儿之后，我得赶紧把货补上。再出这事儿可就麻烦了。"
+    r "之前Perce那事儿之后，我得赶紧把货补上。再出这事儿可就麻烦了。"
 
 # game/script day2.rpy:19881
 translate Chinese day2_eveningchoice_rajeeyahafterdinner_1275e0a9:
@@ -35489,7 +35489,7 @@ translate Chinese day2_eveningchoice_rajeeyahafterdinner_41120c3a:
 translate Chinese day2_eveningchoice_rajeeyahafterdinner_e8ecc016:
 
     # r "I was born in Safi, not Mogador. A town up north from where we will be anchoring. Too far away to reach during our stay in the harbor, though."
-    r "我出生在萨非，不是莫加多尔。它在我们停靠港口的北边，有点远。咱们这次停靠时间短，恐怕没机会去了。"
+    r "我出生在萨菲，不是莫加多尔。它在我们停靠港口的北边，有点远。咱们这次停靠时间短，恐怕没机会去了。"
 
 # game/script day2.rpy:20365
 translate Chinese day2_eveningchoice_rajeeyahafterdinner_eff7b479:
@@ -39717,7 +39717,7 @@ translate Chinese strings:
 
     # game/script day2.rpy:15231
     old "You hear the familiar sound of the fife and go to the fife lesson Julian must be holding for Wolf. Even if for nothing else than to make sure they won't be at each other's throats..."
-    new "你听到了熟悉的短笛声，就去找Julian，他肯定在教Wolf吹短笛。就算没别的，至少能保证他们俩别打起来..."
+    new "你听到了熟悉的横笛声，就去找Julian，他肯定在教Wolf吹横笛。就算没别的，至少能保证他们俩别打起来..."
 
     # game/script day2.rpy:15234
     old "Find Rajeeyah during dinner to take her up on yesterday's dinner invitation."
@@ -39845,11 +39845,11 @@ translate Chinese strings:
 
     # game/script day2.rpy:18800
     old "He wants Wolf to stop blowing across the fife and instead more into it."
-    new "他是想让Wolf别再只是用气吹短笛，要用气息去吹奏它。"
+    new "他是想让Wolf别再只是用气吹横笛，要用气息去吹奏它。"
 
     # game/script day2.rpy:18830
     old "He wants Wolf to press the fife more firmly against his chin."
-    new "他想让Wolf把短笛更紧地贴在下巴上。"
+    new "他想让Wolf把横笛更紧地贴在下巴上。"
 
     # game/script day2.rpy:18866
     old "This is getting ridiculous! Tell Julian to just say it, for crying out loud!"
