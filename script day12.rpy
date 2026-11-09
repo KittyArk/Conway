@@ -930,7 +930,7 @@ translate Chinese day12_main_start_2d6dad13_1:
 translate Chinese day12_main_start_eec02cdc_1:
 
     # p "Where every single fart of mine is scrutinized."
-    p "连我放个屁都得被他拿着放大镜审视一番。"
+    p "连我放个屁都得被他拿着放大镜审视一下。"
 
 # game/script day12.rpy:662
 translate Chinese day12_main_start_cd22435d_1:
@@ -1610,7 +1610,7 @@ translate Chinese day12_main_start_15de7a1e:
 translate Chinese day12_main_start_8382e3b6_1:
 
     # "The jackal continues his work of loosening the sail as he answers."
-    "豺狼人一边回应，手头一边继续松着帆索。"
+    "豺狼一边回应，手头一边继续松着帆索。"
 
 # game/script day12.rpy:983
 translate Chinese day12_main_start_bd9a7f73_1:
@@ -7784,7 +7784,7 @@ translate Chinese day12_decideleave_133c37fb:
 translate Chinese day12_decideleave_9a385daf:
 
     # n "I have seen him teach that wolf fellow how to play the fife as well. So I can imagine where that curiosity stems from."
-    n "我也见过他教那位狼人朋友吹奏横笛，所以我完全能猜到你的好奇心从何而来。"
+    n "我也见过他教那位狼朋友吹奏横笛，所以我完全能猜到你的好奇心从何而来。"
 
 # game/script day12.rpy:4406
 translate Chinese day12_decideleave_6a5083c0:
@@ -36275,7 +36275,7 @@ translate Chinese day12_perce_alcohol_6102ffa2:
 translate Chinese day12_perce_alcohol_d474a6c5:
 
     # "Perce waves you off with an annoyed shake of his head as you leave the jackal behind as you make your way across the deck."
-    "在你转身穿过甲板离开时，身后的豺狼人不耐烦地摇了摇头朝你挥手打发。"
+    "在你转身穿过甲板离开时，身后的豺狼不耐烦地摇了摇头朝你挥手打发。"
 
 # game/script day12.rpy:18953
 translate Chinese day12_perce_alcohol_1ec70c1e:
@@ -37452,7 +37452,7 @@ translate Chinese day12_perce_alcohol_610589b3:
 translate Chinese day12_perce_alcohol_d30936ec:
 
     # "You wipe your muzzle with the back of your hand. Now that it's over, the jackal's taste is starting to reassert itself on your senses."
-    "你用手背擦了擦嘴。事后，那豺狼人的味道又开始在你嘴里蔓延。"
+    "你用手背擦了擦嘴。事后，那豺狼的味道又开始在你嘴里蔓延。"
 
 # game/script day12.rpy:19570
 translate Chinese day12_perce_alcohol_2d674ff3:
@@ -37476,7 +37476,7 @@ translate Chinese day12_perce_alcohol_5c732465:
 translate Chinese day12_perce_alcohol_a465af47:
 
     # "The jackal gives your shoulder a light punch, more dismissive than fraternal."
-    "豺狼人拍了拍你的肩膀，与其说是哥们儿义气，不如说是打发你走。"
+    "豺狼拍了拍你的肩膀，与其说是哥们儿义气，不如说是打发你走。"
 
 # game/script day12.rpy:19582
 translate Chinese day12_perce_alcohol_8e69494c:

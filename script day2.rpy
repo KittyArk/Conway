@@ -32759,7 +32759,7 @@ translate Chinese day2_eveningchoice_fifelesson_d0e774a3:
 translate Chinese day2_eveningchoice_fifelesson_fff2fdab:
 
     # "The canine hesitates for a moment before taking the fife again, black fingers wrapping around it as he cradles it in his lap."
-    "狼人犹豫了一下，再次拿起横笛，黑色的手指紧紧握住，像宝贝一样捧在膝盖上。"
+    "狼犹豫了一下，再次拿起横笛，黑色的手指紧紧握住，像宝贝一样捧在膝盖上。"
 
 # game/script day2.rpy:18596
 translate Chinese day2_eveningchoice_fifelesson_766ac378:
@@ -32861,7 +32861,7 @@ translate Chinese day2_eveningchoice_fifelesson_0618e5f0:
 translate Chinese day2_eveningchoice_fifelesson_4089fabb:
 
     # "Julian's finger lingers on the canine's lips for a moment before sliding away, leaving him to play the note himself."
-    "Julian 的手指在那狼人的嘴唇上停留了片刻，然后滑开，让他自己吹奏这个音符。"
+    "Julian 的手指在那狼的嘴唇上停留了片刻，然后滑开，让他自己吹奏这个音符。"
 
 # game/script day2.rpy:18665
 translate Chinese day2_eveningchoice_fifelesson_d3d08f9b:
@@ -33767,7 +33767,7 @@ translate Chinese day2_eveningchoice_fifelesson_7c904bb5:
 translate Chinese day2_eveningchoice_fifelesson_84368b57:
 
     # j "Do you think Wolf was telling the truth about wolven courting habits?"
-    j "你说Wolf说的那些关于狼人求偶的鬼话，你真信啊？"
+    j "你说Wolf说的那些关于狼求偶的鬼话，你真信啊？"
 
 # game/script day2.rpy:19323
 translate Chinese day2_eveningchoice_fifelesson_02157dc4:
